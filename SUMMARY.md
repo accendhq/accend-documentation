@@ -9,8 +9,12 @@
 
 ## Guides
 
+* [Financial Statement Categories](guides/financial-statement-categories/README.md)
+  * [Income Statement](guides/financial-statement-categories/income-statement.md)
+  * [Balance Sheet](guides/financial-statement-categories/balance-sheet.md)
+  * [Cash Flow Statement](guides/financial-statement-categories/cash-flow-statement.md)
 * [Financial Statement Ratios Definition](guides/financial-statement-ratios-definition.md)
-* [Document Triage Rejection Reasons](basics/editor.md)
+* [Financial Document Triage Rejection Reasons](basics/editor.md)
 
 ## Accend Link
 
