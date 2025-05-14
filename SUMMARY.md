@@ -4,16 +4,18 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Dashboard Quickstart](getting-started/quickstart.md)
+* [Engineering Quickstart](getting-started/publish-your-docs.md)
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Triage Error](basics/editor.md)
+* [ERP Integrations](basics/integrations/README.md)
+  * [Quickbooks Online](basics/integrations/quickbooks-online.md)
+  * [Xero](basics/integrations/xero.md)
+  * [Freshbooks](basics/integrations/freshbooks.md)
+  * [Zoho Book](basics/integrations/zoho-book.md)
+  * [Netsuite](basics/integrations/netsuite.md)
 * [OpenAPI](basics/openapi/README.md)
   * ```yaml
     type: builtin:openapi
