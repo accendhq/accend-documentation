@@ -41,3 +41,7 @@
   * [FreshBooks](end-user-support/software-connection-support/freshbooks.md)
   * [Zoho Books](end-user-support/software-connection-support/zoho-books.md)
   * [NetSuite](end-user-support/software-connection-support/netsuite.md)
+
+***
+
+* [API Status](https://accend.statuspage.io/)
