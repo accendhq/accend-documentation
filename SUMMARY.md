@@ -10,12 +10,17 @@
 ## Basics
 
 * [Triage Error](basics/editor.md)
-* [ERP Integrations](basics/integrations/README.md)
-  * [Quickbooks Online](basics/integrations/quickbooks-online.md)
-  * [Xero](basics/integrations/xero.md)
-  * [Freshbooks](basics/integrations/freshbooks.md)
-  * [Zoho Book](basics/integrations/zoho-book.md)
-  * [Netsuite](basics/integrations/netsuite.md)
+* [Accounting Integrations](basics/integrations/README.md)
+  * [Quickbooks Online](basics/integrations/quickbooks-online/README.md)
+    * [Setup](basics/integrations/quickbooks-online/setup.md)
+  * [Xero](basics/integrations/xero/README.md)
+    * [Setup](basics/integrations/xero/setup.md)
+  * [Freshbooks](basics/integrations/freshbooks/README.md)
+    * [Setup](basics/integrations/freshbooks/setup.md)
+  * [Zoho Book](basics/integrations/zoho-book/README.md)
+    * [Setup](basics/integrations/zoho-book/setup.md)
+  * [Netsuite](basics/integrations/netsuite/README.md)
+    * [Setup](basics/integrations/netsuite/setup.md)
 * [OpenAPI](basics/openapi/README.md)
   * ```yaml
     type: builtin:openapi
@@ -27,3 +32,8 @@
           kind: openapi
           spec: accend-api
     ```
+
+## End User Support
+
+* [Software Connection Support](end-user-support/software-connection-support/README.md)
+  * [Page](end-user-support/software-connection-support/page.md)
