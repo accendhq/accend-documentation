@@ -9,25 +9,25 @@
 
 ## Guides
 
-* [Document Triage Rejection Reasons](guides/editor.md)
+* [Document Triage Rejection Reasons](basics/editor.md)
 
 ## Accend Link
 
-* [Integrations](accend-link/integrations/README.md)
-  * [Quickbooks Online](accend-link/integrations/quickbooks-online/README.md)
-    * [Setup](accend-link/integrations/quickbooks-online/setup.md)
-  * [Xero](accend-link/integrations/xero/README.md)
-    * [Setup](accend-link/integrations/xero/setup.md)
-  * [FreshBooks](accend-link/integrations/freshbooks/README.md)
-    * [Setup](accend-link/integrations/freshbooks/setup.md)
-  * [Zoho Books](accend-link/integrations/zoho-books/README.md)
-    * [Setup](accend-link/integrations/zoho-books/setup.md)
-  * [NetSuite](accend-link/integrations/netsuite/README.md)
-    * [Setup](accend-link/integrations/netsuite/setup.md)
+* [Integrations](basics/integrations/README.md)
+  * [Quickbooks Online](basics/integrations/quickbooks-online/README.md)
+    * [Setup](basics/integrations/quickbooks-online/setup.md)
+  * [Xero](basics/integrations/xero/README.md)
+    * [Setup](basics/integrations/xero/setup.md)
+  * [FreshBooks](basics/integrations/freshbooks/README.md)
+    * [Setup](basics/integrations/freshbooks/setup.md)
+  * [Zoho Books](basics/integrations/zoho-books/README.md)
+    * [Setup](basics/integrations/zoho-books/setup.md)
+  * [NetSuite](basics/integrations/netsuite/README.md)
+    * [Setup](basics/integrations/netsuite/setup.md)
 
 ## Engineering
 
-* [OpenAPI](engineering/openapi/README.md)
+* [OpenAPI](basics/openapi/README.md)
   * ```yaml
     type: builtin:openapi
     props:
