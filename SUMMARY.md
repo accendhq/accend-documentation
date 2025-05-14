@@ -9,6 +9,7 @@
 
 ## Guides
 
+* [Financial Statement Ratios Definition](guides/financial-statement-ratios-definition.md)
 * [Document Triage Rejection Reasons](basics/editor.md)
 
 ## Accend Link
