@@ -13,6 +13,7 @@
 
 ## Accend Link
 
+* [Overview](accend-link/overview.md)
 * [Integrations](basics/integrations/README.md)
   * [QuickBooks Online](basics/integrations/quickbooks-online/README.md)
     * [Setup](basics/integrations/quickbooks-online/setup.md)
