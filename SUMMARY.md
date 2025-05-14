@@ -14,7 +14,7 @@
 ## Accend Link
 
 * [Integrations](basics/integrations/README.md)
-  * [Quickbooks Online](basics/integrations/quickbooks-online/README.md)
+  * [QuickBooks Online](basics/integrations/quickbooks-online/README.md)
     * [Setup](basics/integrations/quickbooks-online/setup.md)
   * [Xero](basics/integrations/xero/README.md)
     * [Setup](basics/integrations/xero/setup.md)
