@@ -4,17 +4,17 @@
 
 **Create Zoho Accounts**
 
-* Sign up for a Zoho Books account.
-* Then, create a Zoho Developer account.
+* Sign up for [a Zoho Books account](https://www.zoho.com/us/books/).
+* Then, create [a Zoho Developer account](https://api-console.zoho.com/).
 
 **Register a New App**\
-In the Zoho Books API Console, create a new app to generate your OAuth credentials.
+In the [Zoho Books API Console](https://api-console.zoho.com/), create a new app to generate your OAuth credentials.
 
 **Configure Redirect URI for Accend**\
 In your app settings under **Authorized Redirect URIs**, add the following Accend redirect URI:
 
 ```
-perlCopyEdithttps://connections.withaccend.com/link/connect/zoho_books
+https://connections.withaccend.com/link/connect/zoho_books
 ```
 
 **Share OAuth Credentials with Accend**
