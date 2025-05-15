@@ -18,7 +18,7 @@ When configuring your app, request the following scopes:
 In your app settings under **Redirect URIs**, add the following Accend redirect URI:
 
 ```
-perlCopyEdithttps://connections.withaccend.com/link/connect/freshbooks
+https://connections.withaccend.com/link/connect/freshbooks
 ```
 
 **Share OAuth Credentials with Accend**\

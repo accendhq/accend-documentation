@@ -12,7 +12,7 @@ Within the [Developer Portal](https://developer.xero.com/), create a new app to 
 *   **Redirect URI:** Add the Accend redirect URI:
 
     ```
-    perlCopyEdithttps://connections.withaccend.com/link/connect/xero
+    https://connections.withaccend.com/link/connect/xero
     ```
 
 **Share OAuth Credentials with Accend**\
