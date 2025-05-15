@@ -8,12 +8,15 @@ Sign up at the [Intuit Developer Portal](https://developer.intuit.com/) to get s
 **Register a New App**\
 Within the Developer Portal, create a new app to generate your OAuth credentials.
 
+**Setup Permissions**
+
+In your app settings under **Permissions**, select `com.intuit.quickbooks.accounting` .
+
 **Configure Redirect URI for Accend**\
 In your app settings under **Redirect URIs**, add the Accend redirect URI:
 
-```
-TODO
-```
+<pre><code><strong>https://connections.withaccend.com/link/connect/quickbooks_online
+</strong></code></pre>
 
 **Share OAuth Credentials with Accend**\
 Locate your **Client ID** and **Client Secret** in the Developer Portal.\
