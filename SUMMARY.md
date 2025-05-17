@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-* [Dashboard Quickstart](getting-started/quickstart.md)
+* [Dashboard Quickstart](getting-started/quickstart/README.md)
+  * [🚀 How to Create a Casee](getting-started/quickstart/how-to-create-a-casee.md)
 * [Engineering Quickstart](getting-started/publish-your-docs.md)
 
 ## Guides
