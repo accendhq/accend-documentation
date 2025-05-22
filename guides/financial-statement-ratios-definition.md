@@ -21,14 +21,14 @@ Why it matters: Working capital measures a company's operational liquidity and f
 * A positive working capital is generally favorable, signifying that a company can meet its short-term debts and operational needs.&#x20;
 * A negative working capital may signal potential liquidity problems, raising concerns about the company's ability to continue its operations smoothly.
 
-Worth to note: Companies aim to maintain an optimal level of working capital to balance liquidity and profitability.
-
-\
+Worth to note: Companies aim to maintain an optimal level of working capital to balance liquidity and profitability.\
 
 
 **Change in Working Capital**
 
-\text{Change in Working Capital} = \text{Working Capital}\_{CY} - \text{Working Capital}\_{PY}
+$$
+\text{Change in Working Capital} = \text{Working Capital}_{CY} - \text{Working Capital}_{PY}
+$$
 
 Definition
 
@@ -41,9 +41,13 @@ Why it matters: This metric measures the shift in a company's short-term financi
 * A positive change means that more funds are tied up in the company's operations, possibly due to increased inventory or accounts receivable.&#x20;
 * A negative change suggests that the company has freed up cash from its working capital, potentially enhancing liquidity.&#x20;
 
+
+
 **Working Capital Turnover Ratio**
 
-\text{Working Capital Turnover Ratio} = \frac{\text{Net Sales\}}{\text{Working Capital\}}
+$$
+\text{Working Capital Turnover Ratio} = \frac{\text{Net Sales}}{\text{Working Capital}}
+$$
 
 Definition
 
@@ -58,12 +62,13 @@ Why it matters: This ratio assesses a company's operational efficiency by reveal
 
 Worth to note: Companies strive to balance this ratio to ensure they are efficiently using their working capital without compromising liquidity.
 
-\
 
 
 **Quick Ratio**
 
-\text{Quick Ratio} = \frac{\text{Cash \\& Cash Equivalents} + \text{Marketable Securities} + \text{Accounts Receivable\}}{\text{Current Liabilities\}}
+$$
+\text{Quick Ratio} = \frac{\text{Cash \& Cash Equivalents} + \text{Marketable Securities} + \text{Accounts Receivable}}{\text{Current Liabilities}}
+$$
 
 Definition
 
@@ -78,12 +83,13 @@ Why it matters: The Quick Ratio evaluates a company's short-term liquidity by fo
 
 Worth to note: However, ideal Quick Ratio levels can vary by industry; some industries operate effectively with lower ratios due to faster cash conversion cycles or reliable cash flows.
 
-\
 
 
 **Current Ratio**
 
-\text{Current Ratio} = \frac{\text{Current Assets\}}{\text{Current Liabilities\}}
+$$
+\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
+$$
 
 Definition
 
@@ -98,12 +104,13 @@ Why it matters: The Current Ratio is a key indicator of a company's short-term f
 
 Worth to note: A very high Current Ratio isn't always better. It could indicate that the company is not efficiently using its current assets or not taking advantage of short-term financing. Ideal ratios vary by industry, so it's important to compare the ratio with industry peers for a more accurate assessment.
 
-\
 
 
 **Runway**
 
-\text{Runway} = \frac{\text{Ending Cash Balance\}}{\left( \frac{\text{Operating Cash Flow} + \text{CAPEX\}}{12} \right)}
+$$
+\text{Runway} = \frac{\text{Ending Cash Balance}}{\left( \frac{\text{Operating Cash Flow} + \text{CAPEX}}{12} \right)}
+$$
 
 Definition
 
@@ -117,14 +124,14 @@ Why it matters: The Runway metric assesses a company's financial longevity by de
 * Operating Cash Flow: Cash generated or used by the company's core business operations.
 * CapEx (Capital Expenditures): Funds used by a company to acquire or upgrade physical assets such as property, industrial buildings, or equipment.
 
-By adding Operating Cash Flow and CapEx, we calculate the total cash burn per year, which, when divided by 12, provides the average monthly cash burn rate. This metric helps companies understand how efficiently they are using their cash and when they might need additional financing.&#x20;
-
-\
+By adding Operating Cash Flow and CapEx, we calculate the total cash burn per year, which, when divided by 12, provides the average monthly cash burn rate. This metric helps companies understand how efficiently they are using their cash and when they might need additional financing. \
 
 
 **Total Debt**
 
+$$
 \text{Total Debt} = \text{Short-Term Debt} + \text{Long-Term Debt}
+$$
 
 Definition
 
@@ -134,12 +141,12 @@ Understanding Total Debt
 
 Why it matters: Total Debt is a key indicator of a company's financial leverage and capital structure. It helps creditors and investors assess the level of risk associated with the company's financing methods.&#x20;
 
-* A higher total debt implies more leverage, which can enhance returns during good economic times but may pose significant risks during downturns.&#x20;
-
-\
+* A higher total debt implies more leverage, which can enhance returns during good economic times but may pose significant risks during downturns. \
 
 
 **Net Debt**
+
+
 
 \text{Net Debt} = \text{Total Debt} - \text{Cash \\& Cash Equivalents}
 
