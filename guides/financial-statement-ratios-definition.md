@@ -133,6 +133,8 @@ $$
 \text{Total Debt} = \text{Short-Term Debt} + \text{Long-Term Debt}
 $$
 
+
+
 Definition
 
 Total Debt represents the sum of a company's short-term and long-term debt obligations. It includes all interest-bearing liabilities that a company has accrued, reflecting the total amount owed to creditors.
@@ -146,9 +148,9 @@ Why it matters: Total Debt is a key indicator of a company's financial leverage 
 
 **Net Debt**
 
-
-
-\text{Net Debt} = \text{Total Debt} - \text{Cash \\& Cash Equivalents}
+$$
+\text{Net Debt} = \text{Total Debt} - \text{Cash \& Cash Equivalents}
+$$
 
 Definition
 
@@ -168,7 +170,9 @@ Worth to note: Excessive cash holdings might indicate that the company is not ef
 
 **Total Equity**
 
+$$
 \text{Total Equity} = \text{Total Assets} - \text{Total Liabilities}
+$$
 
 Definition
 
@@ -187,7 +191,9 @@ Why it matters: Total Equity is a key component of a company's balance sheet and
 
 **Tangible Equity**
 
+$$
 \text{Tangible Equity} = \text{Total Assets} - \text{Total Liabilities} - \text{Intangible Assets}
+$$
 
 Definition
 
@@ -202,7 +208,9 @@ Why it matters: Tangible Equity provides insight into the actual physical net as
 
 **Debt to Equity Ratio**
 
-\text{Debt to Equity Ratio} = \frac{\text{Total Debt\}}{\text{Total Equity\}}
+$$
+\text{Debt to Equity Ratio} = \frac{\text{Total Debt}}{\text{Total Equity}}
+$$
 
 Definition
 
@@ -227,7 +235,9 @@ Worth to note: Companies aim to maintain a Debt to Equity Ratio that aligns with
 
 **Debt to Tangible Equity Ratio**
 
-\text{Debt to Tangible Equity Ratio} = \frac{\text{Total Debt\}}{\text{Tangible Equity\}}
+$$
+\text{Debt to Tangible Equity Ratio} = \frac{\text{Total Debt}}{\text{Tangible Equity}}
+$$
 
 Definition
 
@@ -244,7 +254,9 @@ Worth to note: Companies with significant intangible assets may naturally have h
 
 **Net Debt to Equity Ratio**
 
-\text{Net Debt to Equity Ratio} = \frac{\text{Net Debt\}}{\text{Total Equity\}}
+$$
+\text{Net Debt to Equity Ratio} = \frac{\text{Net Debt}}{\text{Total Equity}}
+$$
 
 Definition
 
@@ -263,7 +275,9 @@ Worth to note: In some cases, negative net debt and negative equity will result 
 
 **Debt to EBITDA Ratio**
 
-\text{Debt to EBITDA Ratio} = \frac{\text{Debt\}}{\text{EBITDA\}}
+$$
+\text{Debt to EBITDA Ratio} = \frac{\text{Debt}}{\text{EBITDA}}
+$$
 
 Definition
 
@@ -288,7 +302,9 @@ Worth to note: For small and medium-sized companies specifically, a ratio betwee
 
 **Net Debt to EBITDA Ratio**
 
-\text{Net Debt to EBITDA Ratio} = \frac{\text{Net Debt\}}{\text{EBITDA\}}
+$$
+\text{Net Debt to EBITDA Ratio} = \frac{\text{Net Debt}}{\text{EBITDA}}
+$$
 
 Definition
 
@@ -303,7 +319,9 @@ Why it matters: This ratio provides a more favorable view of a company's financi
 
 **Total Liabilities Ratio**
 
-\text{Total Liabilities Ratio} = \frac{\text{Total Liabilities\}}{\text{Total Assets\}}
+$$
+\text{Total Liabilities Ratio} = \frac{\text{Total Liabilities}}{\text{Total Assets}}
+$$
 
 Definition
 
@@ -326,7 +344,9 @@ Worth to note: Companies strive to maintain a Total Liabilities Ratio that align
 
 **Equity Ratio**
 
-\text{Equity Ratio} = \frac{\text{Total Equity\}}{\text{Total Assets\}}
+$$
+\text{Equity Ratio} = \frac{\text{Total Equity}}{\text{Total Assets}}
+$$
 
 Definition
 
@@ -343,7 +363,9 @@ Why it matters: The Equity Ratio is the complement of the Total Liabilities Rati
 
 **EBITDA**
 
+$$
 \text{EBITDA} = \text{Operating Profit (Loss)} + \text{Depreciation} + \text{Amortization}
+$$
 
 Definition
 
@@ -358,7 +380,9 @@ Why it matters: EBITDA provides a clearer view of a company's operating performa
 
 **EBIT**
 
-\text{EBIT} = \text{EBITDA} - \text{D\\\&A}
+$$
+\text{EBIT} = \text{EBITDA} - \text{D\&A}
+$$
 
 Definition
 
@@ -373,7 +397,9 @@ Why it matters: EBIT provides a more conservative view of a company's profitabil
 
 **Funds From Operations (FFO)**
 
-\text{FFO} = \text{Net Income} + \text{D\\\&A} - \text{Gains on Sale of Assets}
+$$
+\text{FFO} = \text{Net Income} + \text{D\&A} - \text{Gains on Sale of Assets}
+$$
 
 Definition:
 
@@ -390,7 +416,9 @@ Worth to note: This is particularly relevant in the real estate industry, where 
 
 **EBITDA Interest Coverage Ratio**
 
-\text{EBITDA Interest Coverage Ratio} = \frac{\text{EBITDA\}}{\text{Interest Expense\}}
+$$
+\text{EBITDA Interest Coverage Ratio} = \frac{\text{EBITDA}}{\text{Interest Expense}}
+$$
 
 Definition
 
@@ -432,7 +460,9 @@ Why it matters: This ratio provides a more conservative view of a company's abil
 
 **FFO Interest Coverage Ratio**
 
-\text{FFO Interest Coverage Ratio} = \frac{\text{FFO} + \text{Interest Expense\}}{\text{Interest Expense\}}
+$$
+\text{FFO Interest Coverage Ratio} = \frac{\text{FFO} + \text{Interest Expense}}{\text{Interest Expense}}
+$$
 
 Definition
 
@@ -456,7 +486,9 @@ Worth to note: This ratio is particularly relevant for the real estate industry 
 
 **Debt Service Coverage Ratio**
 
-\text{Debt Service Coverage Ratio} = \frac{\text{EBITDA\}}{\text{Interest Expense} + \text{Short Term Borrowings} + \text{CPLTD\}}
+$$
+\text{Debt Service Coverage Ratio} = \frac{\text{EBITDA}}{\text{Interest Expense} + \text{Short Term Borrowings} + \text{CPLTD}}
+$$
 
 Definition
 
@@ -480,7 +512,9 @@ Worth to note: Companies aim to maintain an adequate DSCR to ensure financial st
 
 **FFO to Current Debt Ratio**
 
-\text{FFO to Current Debt Ratio} = \frac{\text{FFO\}}{\text{Short Term Borrowings} + \text{CPLTD\}}
+$$
+\text{FFO to Current Debt Ratio} = \frac{\text{FFO}}{\text{Short Term Borrowings} + \text{CPLTD}}
+$$
 
 Definition
 
@@ -503,7 +537,9 @@ Worth to note: Companies aim to maintain an adequate ratio to ensure financial f
 
 **Fixed Charge Coverage Ratio**
 
-\text{Fixed Charge Coverage Ratio} = \frac{\text{EBIT} + \text{Lease Payments\}}{\text{Lease Payments} + \text{Interest Expense\}}
+$$
+\text{Fixed Charge Coverage Ratio} = \frac{\text{EBIT} + \text{Lease Payments}}{\text{Lease Payments} + \text{Interest Expense}}
+$$
 
 Definition
 
@@ -527,7 +563,9 @@ Worth to note: Maintaining an adequate ratio is crucial for ensuring the company
 
 **Gross Margin**
 
-\text{Gross Margin} = \frac{\text{Gross Profit\}}{\text{Revenue\}}
+$$
+\text{Gross Margin} = \frac{\text{Gross Profit}}{\text{Revenue}}
+$$
 
 Definition
 
@@ -542,7 +580,9 @@ Why it matters: Gross Margin provides insight into a company's core profitabilit
 
 **Operating Profit Margin**
 
-\text{Operating Profit Margin} = \frac{\text{Operating Profit\}}{\text{Revenue\}}
+$$
+\text{Operating Profit Margin} = \frac{\text{Operating Profit}}{\text{Revenue}}
+$$
 
 Definition
 
@@ -557,7 +597,9 @@ Why it matters: This metric provides insight into a company's operational effici
 
 **Net Profit Margin**
 
-\text{Net Profit Margin} = \frac{\text{Net Income\}}{\text{Revenue\}}
+$$
+\text{Net Profit Margin} = \frac{\text{Net Income}}{\text{Revenue}}
+$$
 
 Definition
 
@@ -572,7 +614,9 @@ Why it matters: The Net Profit Margin provides insight into a company's overall 
 
 **EBITDA Margin**
 
-\text{EBITDA Margin} = \frac{\text{EBITDA\}}{\text{Revenue\}}
+$$
+\text{EBITDA Margin} = \frac{\text{EBITDA}}{\text{Revenue}}
+$$
 
 Definition
 
@@ -587,7 +631,9 @@ Why it matters: The EBITDA Margin provides insight into a company's operational 
 
 **Return on Equity (ROE)**
 
-\text{ROE} = \frac{\text{Net Income\}}{\text{Total Equity\}}
+$$
+\text{ROE} = \frac{\text{Net Income}}{\text{Total Equity}}
+$$
 
 Definition
 
@@ -611,7 +657,9 @@ Worth to note: It's important to compare ROE with industry peers to gain a meani
 
 **Return on Assets (ROA)**
 
-\text{ROA} = \frac{\text{Net Income\}}{\text{Total Assets\}}
+$$
+\text{ROA} = \frac{\text{Net Income}}{\text{Total Assets}}
+$$
 
 Definition
 
@@ -630,7 +678,9 @@ Worth to note: It's important to contextualize the ratio within the specific ind
 
 **DuPont Analysis**
 
+$$
 \text{ROE} = \text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Equity Multiplier}
+$$
 
 Definition
 
@@ -654,7 +704,9 @@ Worth to note: By analyzing each component, DuPont Analysis helps determine whet
 
 **Effective Interest Rate**
 
-\text{Effective Interest Rate} = \frac{\text{Interest Expense\}}{\text{Total Debt\}}
+$$
+\text{Effective Interest Rate} = \frac{\text{Interest Expense}}{\text{Total Debt}}
+$$
 
 **Definition**
 
@@ -672,7 +724,9 @@ Why it matters: The Effective Interest Rate provides insight into the actual cos
 
 **Depreciation-to-Fixed Assets Ratio**
 
-\text{Depreciation-to-Fixed Assets Ratio} = \frac{\text{Depreciation\}}{\text{Total Fixed Assets at Cost\}}
+$$
+\text{Depreciation-to-Fixed Assets Ratio} = \frac{\text{Depreciation}}{\text{Total Fixed Assets at Cost}}
+$$
 
 **Definition**
 
@@ -690,7 +744,9 @@ Why it matters: This ratio provides insight into the rate at which a company is 
 
 **Amortization-to-Intangible Assets Ratio**
 
-\text{Amortization-to-Intangible Assets Ratio} = \frac{\text{Amortization\}}{\text{Total Intangible Assets at Cost\}}
+$$
+\text{Amortization-to-Intangible Assets Ratio} = \frac{\text{Amortization}}{\text{Total Intangible Assets at Cost}}
+$$
 
 **Definition**
 
@@ -708,7 +764,9 @@ Why it matters: This ratio provides insight into the rate at which a company is 
 
 **Total Asset Turnover Ratio**
 
-\text{Total Asset Turnover Ratio} = \frac{\text{Revenue\}}{\text{Total Assets\}}
+$$
+\text{Total Asset Turnover Ratio} = \frac{\text{Revenue}}{\text{Total Assets}}
+$$
 
 Definition
 
@@ -728,7 +786,9 @@ Worth to note: Companies with asset-intensive operations, such as manufacturing 
 
 **Equity Multiplier**
 
-\text{Equity Multiplier} = \frac{\text{Total Assets\}}{\text{Total Equity\}}
+$$
+\text{Equity Multiplier} = \frac{\text{Total Assets}}{\text{Total Equity}}
+$$
 
 Definition
 
@@ -746,7 +806,9 @@ Why it matters: The Equity Multiplier is a key component of the DuPont Analysis 
 
 **Dividend Payout Ratio**
 
-\text{Dividend Payout Ratio} = \frac{\text{Dividend\}}{\text{Net Income\}}
+$$
+\text{Dividend Payout Ratio} = \frac{\text{Dividend}}{\text{Net Income}}
+$$
 
 Definition
 
@@ -766,7 +828,9 @@ Worth to note: Extremely high ratios, especially above 100%, may signal that div
 
 **Effective Tax Rate**
 
-\text{Effective Tax Rate} = \frac{\text{Total Tax Expense\}}{\text{Profit Before Taxes\}}
+$$
+\text{Effective Tax Rate} = \frac{\text{Total Tax Expense}}{\text{Profit Before Taxes}}
+$$
 
 Definition
 
@@ -786,7 +850,9 @@ Worth to note: A significantly lower effective tax rate compared to the statutor
 
 **Days Sales Outstanding (DSO)**
 
-\text{DSO} = \left( \frac{\text{Accounts Receivable\}}{\text{Revenue\}} \right) \times 365
+$$
+\text{DSO} = \left( \frac{\text{Accounts Receivable}}{\text{Revenue}} \right) \times 365
+$$
 
 Definition
 
@@ -806,7 +872,9 @@ A common benchmark for DSO is 30-60 days.
 
 **Days Inventory Outstanding (DIO)**
 
-\text{DIO} = \left( \frac{\text{Inventory\}}{\text{COGS\}} \right) \times 365
+$$
+\text{DIO} = \left( \frac{\text{Inventory}}{\text{COGS}} \right) \times 365
+$$
 
 Definition
 
@@ -826,7 +894,9 @@ A common benchmark for DIO is 30-60 days.
 
 **Days Payable Outstanding (DPO)**
 
-\text{DPO} = \left( \frac{\text{Accounts Payable\}}{\text{COGS\}} \right) \times 365
+$$
+\text{DPO} = \left( \frac{\text{Accounts Payable}}{\text{COGS}} \right) \times 365
+$$
 
 Definition
 
@@ -850,7 +920,9 @@ Worth to note:&#x20;
 
 **Cash Conversion Cycle (CCC)**
 
+$$
 \text{CCC} = \text{DSO} + \text{DIO} - \text{DPO}
+$$
 
 Definition
 
@@ -876,7 +948,9 @@ A common benchmark for CCC is 30-90 days.
 
 **Revenue**
 
+$$
 \text{Revenue}
+$$
 
 Definition
 
@@ -891,7 +965,9 @@ Why it matters: Revenue serves as the top line on a company's income statement a
 
 **Equity Turnover Ratio**
 
-\text{Equity Turnover Ratio} = \frac{\text{Revenue\}}{\text{Total Equity\}}
+$$
+\text{Equity Turnover Ratio} = \frac{\text{Revenue}}{\text{Total Equity}}
+$$
 
 Definition
 
@@ -911,7 +987,9 @@ Worth to note: Companies aiming for rapid growth may exhibit higher equity turno
 
 **Fixed Asset Turnover Ratio**
 
-\text{Fixed Asset Turnover Ratio} = \frac{\text{Revenue\}}{\text{Net Fixed Assets\}}
+$$
+\text{Fixed Asset Turnover Ratio} = \frac{\text{Revenue}}{\text{Net Fixed Assets}}
+$$
 
 Definition
 
@@ -931,7 +1009,9 @@ Worth to note: Companies in capital-intensive industries, such as manufacturing 
 
 **Accounts Receivable Turnover Ratio**
 
-\text{Accounts Receivable Turnover Ratio} = \frac{\text{Revenue\}}{\text{Net Accounts Receivable\}}&#x20;
+$$
+\text{Accounts Receivable Turnover Ratio} = \frac{\text{Revenue}}{\text{Net Accounts Receivable}}
+$$
 
 Definition
 
@@ -955,7 +1035,9 @@ Worth to note:&#x20;
 
 **Inventory Turnover Ratio**
 
-\text{Inventory Turnover Ratio} = \frac{\text{COGS\}}{\text{Inventory\}}
+$$
+\text{Inventory Turnover Ratio} = \frac{\text{COGS}}{\text{Inventory}}
+$$
 
 ​Definition
 
@@ -976,7 +1058,9 @@ Worth to note:&#x20;
 
 **Accounts Payable Turnover Ratio**
 
-\text{Accounts Payable Turnover Ratio} = \frac{\text{COGS\}}{\text{Accounts Payable\}}
+$$
+\text{Accounts Payable Turnover Ratio} = \frac{\text{COGS}}{\text{Accounts Payable}}
+$$
 
 Definition
 
@@ -1000,7 +1084,9 @@ Worth to note:&#x20;
 
 Revenue Growth
 
-\text{Revenue Growth} = \frac{\text{Revenue}\_{CY} - \text{Revenue}\_{PY\}}{\text{Revenue}\_{PY\}}
+$$
+\text{Revenue Growth} = \frac{\text{Revenue}_{CY} - \text{Revenue}_{PY}}{\text{Revenue}_{PY}}
+$$
 
 Definition
 
@@ -1011,7 +1097,9 @@ Revenue Growth measures the percentage increase or decrease in a company's sales
 
 **Gross Profit Growth**
 
-\text{Gross Profit Growth} = \frac{\text{Gross Profit}\_{CY} - \text{Gross Profit}\_{PY\}}{\text{Gross Profit}\_{PY\}}
+$$
+\text{Gross Profit Growth} = \frac{\text{Gross Profit}_{CY} - \text{Gross Profit}_{PY}}{\text{Gross Profit}_{PY}}
+$$
 
 Definition
 
@@ -1022,7 +1110,9 @@ Gross Profit Growth measures the percentage change in a company's gross profit f
 
 **Operating Profit Growth**
 
-\text{Operating Profit Growth} = \frac{\text{Operating Profit}\_{CY} - \text{Operating Profit}\_{PY\}}{\text{Operating Profit}\_{PY\}}
+$$
+\text{Operating Profit Growth} = \frac{\text{Operating Profit}_{CY} - \text{Operating Profit}_{PY}}{\text{Operating Profit}_{PY}}
+$$
 
 Definition
 
@@ -1033,7 +1123,9 @@ Operating Profit Growth measures the percentage change in a company's operating 
 
 **Net Income Growth**
 
-\text{Net Income Growth} = \frac{\text{Net Income}\_{CY} - \text{Net Income}\_{PY\}}{\text{Net Income}\_{PY\}}
+$$
+\text{Net Income Growth} = \frac{\text{Net Income}_{CY} - \text{Net Income}_{PY}}{\text{Net Income}_{PY}}
+$$
 
 Definition
 
@@ -1044,7 +1136,9 @@ Net Income Growth measures the percentage change in a company's net income from 
 
 **EBITDA Growth**
 
-\text{EBITDA Growth} = \frac{\text{EBITDA}\_{CY} - \text{EBITDA}\_{PY\}}{\text{EBITDA}\_{PY\}}
+$$
+\text{EBITDA Growth} = \frac{\text{EBITDA}_{CY} - \text{EBITDA}_{PY}}{\text{EBITDA}_{PY}}
+$$
 
 Definition
 
@@ -1055,7 +1149,9 @@ EBITDA Growth measures the percentage change in a company's Earnings Before Inte
 
 **Total Assets Growth**
 
-\text{Total Assets Growth} = \frac{\text{Total Assets}\_{CY} - \text{Total Assets}\_{PY\}}{\text{Total Assets}\_{PY\}}
+$$
+\text{Total Assets Growth} = \frac{\text{Total Assets}_{CY} - \text{Total Assets}_{PY}}{\text{Total Assets}_{PY}}
+$$
 
 Definition
 
@@ -1066,7 +1162,9 @@ Total Assets Growth measures the percentage change in a company's total assets f
 
 **Total Liabilities Growth**
 
-\text{Total Liabilities Growth} = \frac{\text{Total Liabilities}\_{CY} - \text{Total Liabilities}\_{PY\}}{\text{Total Liabilities}\_{PY\}}
+$$
+\text{Total Liabilities Growth} = \frac{\text{Total Liabilities}_{CY} - \text{Total Liabilities}_{PY}}{\text{Total Liabilities}_{PY}}
+$$
 
 Definition
 
@@ -1077,7 +1175,9 @@ Total Liabilities Growth measures the percentage change in a company's total lia
 
 Total Equity Growth
 
-\text{Total Equity Growth} = \frac{\text{Total Equity}\_{CY} - \text{Total Equity}\_{PY\}}{\text{Total Equity}\_{PY\}}
+$$
+\text{Total Equity Growth} = \frac{\text{Total Equity}_{CY} - \text{Total Equity}_{PY}}{\text{Total Equity}_{PY}}
+$$
 
 Definition
 
@@ -1088,7 +1188,9 @@ Total Equity Growth measures the percentage change in a company's total sharehol
 
 **Cash Flow from Operations**
 
+$$
 \text{Cash Flow from Operations} = \text{Net Income} + \text{Non-Cash Expenses} + \text{Changes in Working Capital}
+$$
 
 Definition
 
@@ -1106,7 +1208,9 @@ Why it matters: Cash Flow from Operations is a crucial indicator of a company's 
 
 **Capital Expenditures**
 
-\text{Capital Expenditures (CapEx)} = \text{Ending PP\\\&E} - \text{Beginning PP\\\&E} + \text{Depreciation \\& Amortization}
+$$
+\text{Capital Expenditures (CapEx)} = \text{Ending PP\&E} - \text{Beginning PP\&E} + \text{Depreciation \& Amortization}
+$$
 
 Definition
 
@@ -1126,7 +1230,9 @@ Worth to note: CapEx decisions reflect management's strategic priorities and com
 
 **Free Cash Flow (FCF)**
 
+$$
 \text{FCF} = \text{CFO} + \text{CAPEX}
+$$
 
 **Definition**
 
@@ -1144,7 +1250,9 @@ Why it matters: Free Cash Flow is a crucial indicator of a company's financial h
 
 **CAPEX to CFO Ratio**
 
-\text{CAPEX to CFO Ratio} = \frac{\text{CAPEX\}}{\text{CFO\}}
+$$
+\text{CAPEX to CFO Ratio} = \frac{\text{CAPEX}}{\text{CFO}}
+$$
 
 Definition
 
@@ -1163,7 +1271,9 @@ Worth to note:&#x20;
 
 **CFO to FCF Ratio**
 
-\text{CFO to FCF Ratio} = \frac{\text{CFO\}}{\text{FCF\}}&#x20;
+$$
+\text{CFO to FCF Ratio} = \frac{\text{CFO}}{\text{FCF}}
+$$
 
 Definition
 
@@ -1180,6 +1290,10 @@ Why it matters: The CFO to FCF Ratio provides insight into the proportion of ope
 
 
 **FCF Margin**
+
+$$
+\text{FCF} = \text{CFO} + \text{CAPEX}
+$$
 
 Definition
 
