@@ -56,7 +56,7 @@ This SuiteBundle installs a predefined role and RESTlet scripts that grant Accen
 
 * The bundle is typically provided by Accend support or pre-linked via the onboarding flow.
 * Follow the prompts in NetSuite to complete the installation.
-* The installation may take a few moments.
+* The installation may take a few minutes.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-06-24 at 3.34.49 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -89,7 +89,7 @@ To obtain your **Consumer Key** and **Consumer Secret**, follow these steps:
    * **Token-Based Authentication**
 4. Save the integration.
 5. Once saved, NetSuite will show your **Consumer Key** and **Consumer Secret**.\
-   Copy these immediately—they are only shown once.
+   **Copy these immediately—they are only shown once.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-06-24 at 3.57.36 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +106,7 @@ To obtain your **Consumer Key** and **Consumer Secret**, follow these steps:
    * The role added via the SuiteBundle (Accend Financial Reports Role).
 3. Click **Save** to generate the credentials.
 4. NetSuite will show your **Token ID** and **Token Secret**.\
-   As before, copy and store these securely—they cannot be retrieved later.
+   **As before, copy and store these securely—they cannot be retrieved later.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-06-24 at 4.00.32 PM.png" alt=""><figcaption></figcaption></figure>
 
