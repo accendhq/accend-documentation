@@ -2,7 +2,7 @@
 
 To securely connect your NetSuite environment to Accend and enable automated syncing of financial data, please follow these steps to gather a few credentials from your NetSuite account.
 
-Ensure you have **Administrator**-level access before proceeding.
+Ensure you have **Administrator-level** access before proceeding.
 
 ### ✅ What You'll Need
 
