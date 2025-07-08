@@ -1,8 +1,8 @@
 # NetSuite
 
-To integrate your NetSuite environment with Accend, you'll need to gather a few credentials and perform some setup steps in your NetSuite account.
+To securely connect your NetSuite environment to Accend and enable automated syncing of financial data, please follow these steps to gather a few credentials from your NetSuite account.
 
-Make sure you have **Administrator** rights in your NetSuite instance before proceeding.
+Ensure you have **Administrator**-level access before proceeding.
 
 ### ✅ What You'll Need
 
@@ -26,7 +26,7 @@ To find your Account ID:
 3. The number before `.app.netsuite.com` is your Account ID.\
    In this example, it’s **7636429**.
 
-You'll need to input this ID into the linking flow on Accend’s setup screen.
+You'll need to enter this Account ID into the **'Connect to NetSuite'** section during Accend’s connection setup process.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-06-24 at 3.49.32 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ In order for Accend to access your NetSuite data, you'll need to enable certain 
 
 This SuiteBundle installs a predefined role and RESTlet scripts that grant Accend read-only access to your financial records.
 
-* The bundle is typically provided by Accend support or pre-linked via the onboarding flow.
+* The bundle is typically provided by Accend Support or pre-linked via the onboarding flow.
 * Follow the prompts in NetSuite to complete the installation.
 * The installation may take a few minutes.
 
@@ -88,8 +88,11 @@ To obtain your **Consumer Key** and **Consumer Secret**, follow these steps:
 3. Check the following options:
    * **Token-Based Authentication**
 4. Save the integration.
-5. Once saved, NetSuite will show your **Consumer Key** and **Consumer Secret**.\
-   **Copy these immediately—they are only shown once.**
+5. Once saved, NetSuite will show your **Consumer Key** and **Consumer Secret**.
+
+{% hint style="danger" %}
+<mark style="color:red;">**Important:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Copy and securely store your Consumer Key and Consumer Secret immediately after saving—they will not be displayed again.</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-06-24 at 3.57.36 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -105,8 +108,11 @@ To obtain your **Consumer Key** and **Consumer Secret**, follow these steps:
    * The user assigned in Step 4.
    * The role added via the SuiteBundle (Accend Financial Reports Role).
 3. Click **Save** to generate the credentials.
-4. NetSuite will show your **Token ID** and **Token Secret**.\
-   **As before, copy and store these securely—they cannot be retrieved later.**
+4. NetSuite will show your **Token ID** and **Token Secret**.
+
+{% hint style="danger" %}
+<mark style="color:red;">**Important:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Copy and securely store your Token ID and Token Secret immediately—they cannot be retrieved later.</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-06-24 at 4.00.32 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -125,6 +131,8 @@ When prompted in the Accend setup interface, provide:
 * **Token Secret** – From Step 6
 
 Once all credentials are entered correctly, the connection should be established, and Accend will be able to sync your NetSuite financial data securely.
+
+**Security Assurance:** Accend uses these credentials only to securely access and sync your NetSuite data. Your credentials are encrypted and stored securely.
 
 
 
