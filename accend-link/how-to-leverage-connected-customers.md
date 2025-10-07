@@ -20,7 +20,7 @@ Accend provides webhook notifications so your application can react to data sync
 1. [Sync Completion event](https://app.gitbook.com/o/c6StG9bTL85tJU742xqN/s/C1dyFADp05ltoHZNkN2k/~/changes/31/engineering/openapi/financials#link_sync_completion_event)
    1. Sent when a data sync (initial or recurring) has successfully finished.
    2. The payload includes information about the sync type (`initial` or `recurring`) and the customer it pertains to and the data period we retrieved.
-2. [Sync Error event](https://app.gitbook.com/o/c6StG9bTL85tJU742xqN/s/C1dyFADp05ltoHZNkN2k/~/changes/31/engineering/openapi/financials#link_sync_error_event)
+2. [Sync Error event](https://accend.gitbook.io/accend-docs/engineering/openapi/financials#link_sync_error_event)
    1. Sent if a data sync fails due to an error.
    2. The payload includes details about the error and the affected customer, which can be used for debugging or retry logic.
 
