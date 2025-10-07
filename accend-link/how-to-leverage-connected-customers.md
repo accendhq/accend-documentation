@@ -35,7 +35,7 @@ Accend provides webhook notifications so your application can react to data sync
 You can query connected customers and manage their accounting integrations using the Customers API and related endpoints:
 
 *   **Retrieve Connected Customers**\
-    Use the [`GET /api/v1/financials/customers`](https://app.gitbook.com/o/c6StG9bTL85tJU742xqN/s/C1dyFADp05ltoHZNkN2k/~/changes/31/engineering/openapi/financials#get-api-v1-financials-customers) endpoint with the filter:
+    Use the [`GET /api/v1/financials/customers`](https://accend.gitbook.io/accend-docs/engineering/openapi/financials#get-api-v1-financials-customers) endpoint with the filter:
 
     ```json
     contains_any("link_connections", "all")
