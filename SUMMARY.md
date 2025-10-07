@@ -31,6 +31,7 @@
     * [Setup](basics/integrations/zoho-books/setup.md)
   * [NetSuite](basics/integrations/netsuite/README.md)
     * [Setup](basics/integrations/netsuite/setup.md)
+* [How to leverage connected customers](accend-link/how-to-leverage-connected-customers.md)
 
 ## Engineering
 
