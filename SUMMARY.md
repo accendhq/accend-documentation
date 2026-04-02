@@ -33,6 +33,13 @@
     * [Setup](basics/integrations/netsuite/setup.md)
 * [How to leverage connected customers](accend-link/how-to-leverage-connected-customers.md)
 
+## ACCEND FOR EXCEL
+
+* [ACCOUNT](accend-for-excel/account.md)
+* [STMT.ATTR](accend-for-excel/stmt.attr.md)
+* [ENTITY.ATTR](accend-for-excel/entity.attr.md)
+* [DEBUG.CONFIG](accend-for-excel/debug.config.md)
+
 ## Engineering
 
 * [OpenAPI](basics/openapi/README.md)
